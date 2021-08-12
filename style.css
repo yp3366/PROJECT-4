@@ -1,0 +1,13 @@
+.text p {
+	text-align: center;
+}
+
+.container {
+	align-items: center;
+	text-align: center;
+}
+
+.text .joke {
+	align-items: center;
+	text-align: center;
+}
